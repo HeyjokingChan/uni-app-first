@@ -28,6 +28,7 @@
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarBackgroundColor": "#F7F7F7",
+		
 		"backgroundColor": "#aa557f",
 		"pageOrientation": "portrait",
 		"navigationStyle": "default",
